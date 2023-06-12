@@ -36,8 +36,8 @@ I've been coding for 3yrs, and after working on different stacks in tech, I've f
                     
               ### Socials
                   
-                  
-                <p align="left">
+                 
+<p align="left">
                           
   <a href="https://discord.com/users/Stephrex#1245" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
                           
